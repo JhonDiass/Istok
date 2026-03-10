@@ -1,4 +1,4 @@
-# 🛒📦 *# Istok!* 1.0.0
+# 🛒📦 *# Istok!* 1.0.2
 ###  -> Seu sistema de controle de estoque.
 
 <br/>
